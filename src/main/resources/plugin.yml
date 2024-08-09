@@ -1,0 +1,6 @@
+name: InventoryPlayerInputAddon
+version: '1.0-SNAPSHOT'
+main: fr.as2treffle.inventoryPlayerInputAddon.InventoryPlayerInputAddon
+api-version: '1.21'
+depend:
+  - "InventoryBuilderAPI"
